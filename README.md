@@ -1,7 +1,6 @@
 CAPSTONE FINALE
 
 PERSONAL SITE
-
 Di seguito il link per del sito dopo il deploy:
 https://capstone-finale-belardo.netlify.app/
 
