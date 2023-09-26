@@ -1,17 +1,17 @@
-CAPSTONE FINALE - PERSONAL SITE
+#CAPSTONE FINALE - PERSONAL SITE
 
+
+Benvenuti nella repository del mio sito.
 Di seguito il link per del sito dopo il deploy:
 https://capstone-finale-belardo.netlify.app/
 
-Benvenuti nella repository del mio sito.
+#LATO BACKEND
+Sviluppato con MongoDB, Node.js, e Express.js per gestire i dati. Integrazione con Cloudinary per il caricamento e la gestione delle immagini. Utilizzo di Nodemailer per le notifiche e le email.
 
-LATO BACKEND
-# Sviluppato con MongoDB, Node.js, e Express.js per gestire i dati. Integrazione con Cloudinary per il caricamento e la gestione delle immagini. Utilizzo di Nodemailer per le notifiche e le email.
-
-Lato Client 💻
+#Lato Client 
 Realizzato con React e Redux per un'interfaccia utente reattiva e scalabile. Design personalizzato con Bootstrap e custom CSS per un look unico. Utilizzo di react-leaflet per la visualizzazione delle mappe interattive. Requisizioni HTTP ottimizzate con Axios per migliorare l'esperienza utente.
 
-Funzionalità Principali 📌
+#Funzionalità Principali 📌
 📅 Widget Data Odierna con citazioni randomiche da Forbes.
 
 ☀️ Widget Meteo basato sulla tua posizione attuale.
