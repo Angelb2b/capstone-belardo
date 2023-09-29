@@ -3,9 +3,6 @@ CAPSTONE FINALE - PERSONAL SITE
 Benvenuti nella repository del mio sito.
 Di seguito il link per del sito dopo il deploy:
 https://capstone-finale-belardo.netlify.app/
-Nel malaugurato caso che non dovesse andare il login, queste sono credenziali di prova:
-Email: frossi@live.it
-Password: Rossifilippo1
 
 LATO BACK-END
 Sviluppato con MongoDB, Node.js, e Express.js per gestire i dati. Integrazione con Cloudinary per il caricamento e la gestione delle immagini. Utilizzo di Nodemailer per le notifiche e le email.
